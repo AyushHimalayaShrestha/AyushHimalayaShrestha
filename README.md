@@ -1,20 +1,31 @@
-# AyushHimalayaShrestha
-# Hello, World! 👋
-<h1 align="center">Hi 👋, I'm Ayush Himalaya Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+# Hello, World! 👋  
+<h1 align="center">Hi, I'm Ayush Himalaya Shrestha</h1>  
+<h3 align="center">A passionate frontend developer from Nepal</h3>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhimalayashrestha&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhimalayashrestha" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushhimalayashrestha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+### 🚀 About Me  
+- 💻 I’m a **frontend developer** passionate about building interactive and dynamic web applications.  
+- 🌱 Currently learning **Django and ASP.NET Core (MVC)** to expand my full-stack skills.  
+- 🎯 Exploring **React** and **modern web frameworks** to create efficient and scalable solutions.  
+- 📚 Always eager to learn and collaborate on exciting projects.  
 
-
-- 🌱 I’m currently learning **Django,Asp.Net Core(MVC),**
-
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/ayush himalaya shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush himalaya shrestha" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayush himalaya shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush himalaya shrestha" height="30" width="40" /></a>
-<a href="https://fb.com/ayush himalaya shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush himalaya shrestha" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush himalaya shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush himalaya shrestha" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ayushhimalayashrestha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/ayushhimalayashrestha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/ayushhimalayashrestha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ayushhimalayashrestha" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
