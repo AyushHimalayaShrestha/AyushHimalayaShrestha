@@ -14,14 +14,8 @@
 
 ### 🔗 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/ayushhimalayashrestha" target="_blank">
+  <a href="https://linkedin.com/ayush-himalaya-shrestha-79257a2a3" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/ayushhimalayashrestha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/ayushhimalayashrestha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/ayushhimalayashrestha" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
