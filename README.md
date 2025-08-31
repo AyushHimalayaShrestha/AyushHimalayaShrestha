@@ -1,4 +1,5 @@
 # Hello, World! 👋  
+# It's Me Ayush Himalaya Shrestha
 # 💫 About Me:
 🎓 I have completed my Bachelor of Arts in Social Work (BASW).<br><br>💻 I’m passionate about web development, data science, and programming.<br><br>🌱 Currently exploring C# ASP.NET, React, Django REST Framework, and MySQL.<br><br>📊 Experienced in database design, data structures & algorithms, and machine learning projects.<br><br>🚀 I enjoy building full-stack web applications and solving real-world problems with code.<br><br>
 
